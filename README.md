@@ -1,5 +1,6 @@
 📄 Resume Website
 A simple and responsive resume website built using HTML and CSS. This project presents personal and professional information in a clean, modern, and easy-to-read layout.
+---
 
 🚀 Features
 Clean and professional resume design
@@ -12,16 +13,22 @@ Education details
 Certifications
 Contact information
 LinkedIn and GitHub links
+---
+
 🛠️ Technologies Used
 HTML5
 CSS3
 Font Awesome
 Google Fonts
+---
+
 📂 Project Structure
 Resume/
 │── index.html
 │── style.css
 │── README.md
+---
+
 📋 Resume Sections
 Header
 Contact Information
@@ -31,6 +38,7 @@ Projects
 Education
 Certifications
 Languages
+---
 👨‍💻 Author
 Mayank Singh Bisht
 
